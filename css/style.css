@@ -1,0 +1,74 @@
+.wrapper{
+	width: 50%;
+	margin: 0 auto;
+	border: 5px solid #ddd;
+	padding: 50px;
+}
+.heading{
+	text-align: center;
+	font-size: 20px;
+}
+
+.heading a{
+	color: blue;
+	text-decoration: none;
+}
+label{
+	font-size: 25px;
+}
+.first_name, .last_name, .email, .password{
+	width: 90%;
+	height: 25px;
+	padding: 10px;
+	font-size: 18px;
+}
+.btn, .login{
+	width: 100%;
+	padding: 12px 0;
+	font-size: 20px;
+	font-weight: 700;
+	margin: 10px 0px;
+}
+
+.continue p{
+text-align: center;
+font-size: 16px;
+}
+.continue a{
+text-decoration: none;
+  font-size: 14px;
+  display: block;
+  text-align: center;
+  color: blue;
+}
+.table {
+	text-align: center;
+}
+.table a{
+	font-size: 20px;
+	color: blue;
+	text-decoration: none;
+}
+table, td, th {
+  border: 1px solid;
+}
+
+table{
+width: 100%;
+border-collapse: collapse;
+background-color: antiquewhite;
+}
+caption{
+font-size: 30px;
+font-weight: 600;
+}
+th, td{
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid black;
+	padding: 15px;
+
+}
+td:hover{
+	background-color: #ddd;
+}
